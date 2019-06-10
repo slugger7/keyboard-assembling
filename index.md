@@ -134,6 +134,60 @@ class: center, middle
   
 ---
 
+# Keycap profiles
+
+.center[![keycap-profiles](./resources/keycap-profiles.jpg)]
+
+---
+
+# Parts
+
+.center[![parts](./resources/parts.jpg)]
+
+---
+
+# Preparing Stabalisers
+
+.center[![stabs](./resources/stabs.jpg)]
+
+---
+
+# Corner switches
+
+.center[![corner-switches](./resources/corner-switches.jpg)]
+
+---
+
+# First solder EVER!!!
+
+.center[![first-solders](./resources/first-solders.jpg)]
+
+---
+
+# Switch push
+
+.center[![switch-push](./resources/switch-push.jpg)]
+
+---
+
+# My daily
+
+.center[![purty](./resources/purty.jpg)]
+
+---
+
+# We got a dud
+
+.center[![dud](./resources/dud-switch.jpg)]
+
+---
+
+# Stems and switch top remover \#nudes ;)
+
+.center[![zealio-stems](./resources/zealios-stems.jpg)]
+
+---
+
 # Firmware
 
 - QMK Firmware
