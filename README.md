@@ -210,7 +210,7 @@ class: center, middle
 - [Skiwithpete](https://www.youtube.com/user/skiwithpete) owner of 1upkeyboards does keyboard building live streams of products on his shop (also has a discord you can join to ask questions)
 - [TaeKeyboards](https://www.youtube.com/channel/UCllGwtW6scxAjM28fIgEozg) good keyboard review channel and some guides
 - [/r/MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/) they have a very nice wiki with a lot of information on a lot of keyboards and guides on modding with links to many things (most probably the holy grail of knowledge and keyboard "porn")
-- \#mechanicalkeyboards on slack :)
+- \#mechanicalkeyboard on slack :)
 - [QMK](https://qmk.fm/)
 
 ---
